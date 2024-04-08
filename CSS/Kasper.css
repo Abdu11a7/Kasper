@@ -388,6 +388,8 @@ header nav .form i {
 .portfolio .container ul li {
   padding: 10px;
   transition: 0.3s;
+    margin-left: 10px;
+  cursor: pointer;
 }
 .portfolio .container ul li:hover,
 .portfolio .container ul li:first-child {
